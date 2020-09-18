@@ -22,7 +22,7 @@
 <br>
 <a id="anchor2"></a>
 
-* PC操作のTips
+* **PC操作のTips**
     - 画面切り替え　:　**Alt+Tab**<br>
     コーディング作業中、画面を切り替えたいシチュエーションは多いと思います。
     例えば、テキストエディタと参考書のpdfや、Webブラウザなどです。
@@ -80,7 +80,7 @@
 <br>
 <a id="anchor3"></a>
 
-* Processing操作のTips
+* **Processing操作のTips**
     - インデントを増やす　:　**ctrl+]** もしくは 行の先頭で**Tab**<br>
     カーソルのある行のインデントを増やします。
 
@@ -113,7 +113,7 @@
 <br>
 <a id="anchor4"></a>
 
-* Chrome操作のTips
+* **Chrome操作のTips**
     - 新しいタブを開く　:　**ctrl+t**<br>
 
     - ページを更新する　:　**ctrl+r** もしくは **f5**<br>
@@ -132,7 +132,7 @@
 <br>
 <a id="anchor5"></a>
 
-* おわりに
+* **おわりに**
 
     VSCode、eclipse、XcodeなどのIDE(統合開発環境)では、ショートカットを編集することができます。<br>
     残念ながらProcessingではショートカットの編集は出来ないようです。<br>
