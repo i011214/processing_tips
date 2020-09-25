@@ -4,8 +4,9 @@
 * [概要](#anchor1)
 * [PC操作のTips](#anchor2)
 * [Processing操作のTips](#anchor3)
-* [Chrome操作のTips](#anchor4)
-* [おわりに](#anchor5)
+* [VSCode操作のTips](#anchor4)
+* [Chrome操作のTips](#anchor5)
+* [おわりに](#anchor6)
 
 <a id="anchor1"></a>
 
@@ -113,6 +114,22 @@
 <br>
 <a id="anchor4"></a>
 
+* **VSCode操作のTips**
+    - テキストエディタを分割する　:　**ctrl+￥** もしくは **ctrl+k,ctrl+￥**<br>
+    テキストエディタを分割し、複数のファイルを同時に表示することができます。
+    他のソースコードを参照しながらコーディングする際に役立ちます。
+    初期設定では"ctrl+￥"で左右に分割、"ctrl+k"を押してから"ctrl+￥"を押すと上下に分割します。
+    メニューの「表示」-「エディターレイアウト」からも同様に分割することができます。
+    
+    - テキストエディタを移動する　:　**ctrl+PageUp** もしくは **ctrl+PageDown**<br>
+    分割したテキストエディタを移動します。
+    
+    
+
+<br>
+<br>
+<a id="anchor5"></a>
+
 * **Chrome操作のTips**
     - 新しいタブを開く　:　**ctrl+t**<br>
 
@@ -130,7 +147,7 @@
     
 <br>
 <br>
-<a id="anchor5"></a>
+<a id="anchor6"></a>
 
 * **おわりに**
 
